@@ -1,4 +1,4 @@
-# compy
+# Compy - A Laptop Recommendation System
 
 A new Flutter project.
 
