@@ -1,0 +1,217 @@
+Timestamp,Field of interest,Brand of your laptop that you are using for your use case?,The processor of your laptop that you use for your use case?,The Graphic Card of your laptop that you use for your use case?,The RAM of your laptop that you use for your use case?,The OS of your laptop that you use for your use case?,"Scale your priority for tech specs you would go for buying a laptop for your usecase(1 being the lowest and 4 being the highest)
+ [Processor ]","Scale your priority for tech specs you would go for buying a laptop for your usecase(1 being the lowest and 4 being the highest)
+ [Graphic Card]","Scale your priority for tech specs you would go for buying a laptop for your usecase(1 being the lowest and 4 being the highest)
+ [RAM]","Scale your priority for tech specs you would go for buying a laptop for your usecase(1 being the lowest and 4 being the highest)
+ [OS]"
+11/12/2022 1:13:34,Data Science,Dell,Intel I5,Discrete,8 GB,Windows,2,1,3,4
+11/12/2022 1:14:55,Data Science,Dell,Intel I5,Discrete,16 GB,Windows,2,1,4,3
+11/12/2022 1:20:23,Data Science,Lenovo,Ryzen 7,Integrated,16 GB,Windows,3,4,2,3
+11/12/2022 1:21:32,Data Science,Dell,Intel I5,Discrete,8 GB,Windows,3,1,2,4
+11/12/2022 1:21:48,Data Science,Dell,Ryzen 5,Integrated,8 GB,Windows,3,2,2,4
+11/12/2022 1:22:32,Data Science,Dell,Intel I7,Integrated,12 GB,Windows,3,3,3,3
+11/12/2022 1:43:58,Data Science,Mac (Apple),M1,Integrated/Shared,8 GB,Mac OS,3,2,3,2
+11/12/2022 1:44:23,IOT & Robotics,HP,Intel I5,Discrete/Dedicated,8 GB,Windows,4,2,4,3
+11/12/2022 1:44:52,Video Editing,Mac (Apple),M1,Integrated/Shared,16 GB,Mac OS,4,4,4,4
+11/12/2022 1:45:20,AI,Lenovo,Ryzen 5,Discrete/Dedicated,16 GB,Windows,4,4,3,1
+11/12/2022 1:45:39,Data Science,Asus,Ryzen 7,Integrated/Shared,32 GB,Windows,4,4,4,3
+11/12/2022 1:47:22,Cyber Security,Msi,Intel I7,Discrete/Dedicated,32 GB,Linux,4,4,4,4
+11/12/2022 1:47:32,Data Science,Lenovo,Intel I5,Integrated/Shared,12 GB,Windows,4,3,3,4
+11/12/2022 1:48:47,Cloud Computing,Mac (Apple),Intel I5,Discrete/Dedicated,8 GB,Mac OS,4,3,4,4
+11/12/2022 1:49:22,Cloud Computing,HP,Ryzen 7,Discrete/Dedicated,16 GB,Windows,3,4,3,2
+11/12/2022 1:51:09,Data Science,HP,Intel I5,Discrete/Dedicated,16 GB,Windows,3,4,2,1
+11/12/2022 1:51:59,AI,HP,Ryzen 7,Discrete/Dedicated,16 GB,Windows,4,4,4,4
+11/12/2022 1:52:04,Data Science,Dell,Intel I5,Integrated/Shared,8 GB,Windows,1,2,3,4
+11/12/2022 1:52:25,Data Science,Mac (Apple),M1,Integrated/Shared,8 GB,Mac OS,4,4,4,4
+11/12/2022 1:52:26,AI,HP,Intel I7,Discrete/Dedicated,16 GB,Windows,3,4,2,1
+11/12/2022 1:54:13,Data Science,HP,Intel I5,Integrated/Shared,8 GB,Windows,4,3,4,2
+11/12/2022 1:55:19,Data Science,Mac (Apple),M1,Integrated/Shared,8 GB,Mac OS,4,3,3,2
+11/12/2022 1:56:13,Data Science,Mac (Apple),M1,Discrete/Dedicated,16 GB,Mac OS,4,3,3,3
+11/12/2022 1:56:39,AI,Dell,Intel I5,Discrete/Dedicated,16 GB,Windows,4,3,4,4
+11/12/2022 1:57:59,Data Science,Msi,Intel I5,Integrated/Shared,8 GB,Windows,4,4,4,4
+11/12/2022 1:59:32,Block Chain,HP,Intel I7,Integrated/Shared,16 GB,Windows,3,2,3,3
+11/12/2022 2:00:19,Video Editing,Mac (Apple),M2,Integrated/Shared,16 GB,Mac OS,4,3,4,4
+11/12/2022 2:00:36,Data Science,HP,Intel I5,Integrated/Shared,8 GB,Windows,4,3,3,4
+11/12/2022 2:00:47,Gaming,Asus,Intel I7,Discrete/Dedicated,16 GB,Windows,3,4,4,3
+11/12/2022 2:03:59,AI,HP,Ryzen 7,Integrated/Shared,16 GB,Windows,4,3,4,4
+11/12/2022 2:04:12,AI,HP,Intel I7,Integrated/Shared,16 GB,Windows,4,1,3,3
+11/12/2022 2:06:07,Data Science,HP,Intel I5,Discrete/Dedicated,8 GB,Windows,3,2,3,3
+11/12/2022 2:06:43,AI,Asus,Intel I7,Discrete/Dedicated,16 GB,Windows,4,4,4,2
+11/12/2022 2:08:59,AI,Mac (Apple),M2,Integrated/Shared,32 GB,Mac OS,4,2,4,3
+11/12/2022 2:12:23,AI,HP,Intel I5,Integrated/Shared,16 GB,Linux,4,1,3,2
+11/12/2022 2:14:04,Data Science,Asus,Intel I5,Discrete/Dedicated,8 GB,Windows,4,3,4,3
+11/12/2022 2:14:05,Gaming,Msi,Intel I5,Discrete/Dedicated,8 GB,Windows,3,3,3,4
+11/12/2022 2:15:55,Cloud Computing,Acer,Intel I5,Integrated/Shared,8 GB,Windows,4,3,4,3
+11/12/2022 2:17:02,AI,Asus,Ryzen 7,Discrete/Dedicated,16 GB,Windows,4,2,4,3
+11/12/2022 2:22:10,AI,HP,Ryzen 5,Integrated/Shared,8 GB,Windows,3,3,4,4
+11/12/2022 2:22:36,Data Science,HP,Ryzen 7,Integrated/Shared,32 GB,Windows,4,2,3,3
+11/12/2022 2:23:31,Data Science,Lenovo,Intel I5,Integrated/Shared,8 GB,Windows,4,2,4,4
+11/12/2022 2:31:02,AI,Asus,Ryzen 7,Discrete/Dedicated,8 GB,Windows,4,3,4,4
+11/12/2022 2:32:50,Block Chain,Asus,Intel I5,Integrated/Shared,8 GB,Windows,4,3,4,1
+11/12/2022 2:37:53,Cyber Security,Asus,Intel I5,Integrated/Shared,12 GB,Windows,4,2,3,3
+11/12/2022 2:48:33,AI,HP,Intel I7,Integrated/Shared,8 GB,Windows,4,3,4,3
+11/12/2022 2:53:15,Gaming,Dell,Ryzen 5,Discrete/Dedicated,8 GB,Windows,4,4,3,2
+11/12/2022 2:56:11,AR VR,HP,Intel I5,Integrated/Shared,16 GB,Windows,4,4,4,1
+11/12/2022 2:59:16,Data Science,Lenovo,Ryzen 5,Integrated/Shared,8 GB,Windows,3,3,4,4
+11/12/2022 3:15:31,AI,Dell,Intel I5,Discrete/Dedicated,12 GB,Windows,1,2,3,4
+11/12/2022 3:27:15,Block Chain,Dell,Intel I7,Integrated/Shared,8 GB,Windows,1,3,2,4
+11/12/2022 3:33:57,IOT & Robotics,HP,Intel I5,Discrete/Dedicated,16 GB,Windows,3,3,4,4
+11/12/2022 3:37:30,Cyber Security,HP,Ryzen 5,Discrete/Dedicated,8 GB,Windows,4,4,4,4
+11/12/2022 3:39:11,Video Editing,Mac (Apple),M1,Integrated/Shared,8 GB,Mac OS,4,2,4,4
+11/12/2022 4:03:44,Data Science,Mi,Intel I5,Integrated/Shared,16 GB,Windows,4,2,3,4
+11/12/2022 4:54:54,AI,Asus,Ryzen 7,Discrete/Dedicated,16 GB,Windows,4,4,4,3
+11/12/2022 5:02:29,AI,HP,Intel I5,Integrated/Shared,8 GB,Windows,4,1,3,4
+11/12/2022 6:14:47,AI,Acer,Intel I5,Discrete/Dedicated,8 GB,Windows,4,4,4,4
+11/12/2022 7:24:08,Data Science,HP,Intel I5,Discrete/Dedicated,8 GB,Windows,1,2,1,2
+11/12/2022 7:33:17,Block Chain,Dell,Intel I5,Integrated/Shared,12 GB,Windows,4,4,4,4
+11/12/2022 7:45:52,Data Science,Lenovo,Intel I5,Integrated/Shared,16 GB,Windows,2,3,1,4
+11/12/2022 7:53:02,Cyber Security,Asus,Intel I5,Integrated/Shared,16 GB,Windows,4,2,4,2
+11/12/2022 7:54:06,Gaming,HP,Intel I7,Discrete/Dedicated,16 GB,Windows,3,4,2,4
+11/12/2022 8:01:52,Gaming,Acer,Intel I5,Integrated/Shared,8 GB,Windows,4,4,4,3
+11/12/2022 8:02:55,Data Science,Mac (Apple),M2,Discrete/Dedicated,16 GB,Mac OS,4,4,4,4
+11/12/2022 8:03:04,Data Science,HP,Intel I5,Integrated/Shared,8 GB,Windows,4,3,4,4
+11/12/2022 8:12:51,Cyber Security,HP,Ryzen 5,Integrated/Shared,8 GB,Linux,4,4,4,4
+11/12/2022 8:23:18,AI,Mac (Apple),Intel I5,Integrated/Shared,8 GB,Mac OS,3,2,3,2
+11/12/2022 8:29:28,Data Science,Asus,Intel I5,Integrated/Shared,16 GB,Windows,4,2,4,2
+11/12/2022 8:33:50,Gaming,Mac (Apple),M2,Discrete/Dedicated,16 GB,Mac OS,3,2,4,1
+11/12/2022 8:34:32,Data Science,Dell,Intel I5,Integrated/Shared,8 GB,Windows,4,3,3,2
+11/12/2022 8:39:01,AI,Lenovo,Intel I5,Integrated/Shared,8 GB,Windows,2,3,2,2
+11/12/2022 8:43:54,AI,Mac (Apple),Intel I5,Integrated/Shared,12 GB,Mac OS,3,3,3,3
+11/12/2022 8:47:29,AI,Asus,Ryzen 7,Discrete/Dedicated,16 GB,Windows,4,4,3,1
+11/12/2022 8:54:15,AI,Dell,Intel I7,Integrated/Shared,16 GB,Windows,4,1,3,3
+11/12/2022 8:55:11,Cyber Security,Acer,Intel I5,Discrete/Dedicated,8 GB,Windows,3,3,4,3
+11/12/2022 8:56:48,Data Science,Acer,Intel I7,Discrete/Dedicated,16 GB,Windows,4,2,3,1
+11/12/2022 9:00:51,AI,Mac (Apple),M1,Integrated/Shared,8 GB,Mac OS,3,3,3,3
+11/12/2022 9:06:55,Cloud Computing,Lenovo,Ryzen 5,Discrete/Dedicated,16 GB,Windows,4,3,2,1
+11/12/2022 9:12:04,Gaming,Dell,Intel I5,Discrete/Dedicated,8 GB,Windows,4,4,4,4
+11/12/2022 9:24:33,AI,Acer,Intel I5,Discrete/Dedicated,16 GB,Windows,4,4,3,3
+11/12/2022 9:24:34,AI,Dell,Intel I7,Discrete/Dedicated,8 GB,Windows,3,1,4,4
+11/12/2022 9:37:58,Cloud Computing,HP,Ryzen 5,Discrete/Dedicated,8 GB,Windows,4,3,4,3
+11/12/2022 9:39:48,Gaming,Lenovo,Intel I7,Discrete/Dedicated,32 GB,Windows,4,4,4,4
+11/12/2022 9:41:07,IOT & Robotics,Dell,Intel I5,Discrete/Dedicated,8 GB,Windows,4,4,4,4
+11/12/2022 9:51:47,AI,Dell,Intel I7,Discrete/Dedicated,32 GB,Windows,4,3,4,4
+11/12/2022 9:56:59,Cyber Security,Dell,Intel I5,Discrete/Dedicated,8 GB,Windows,4,3,4,3
+11/12/2022 10:02:11,Data Science,HP,Ryzen 5,Discrete/Dedicated,8 GB,Windows,2,4,4,3
+11/12/2022 10:07:50,Data Science,Mac (Apple),M2,Integrated/Shared,8 GB,Mac OS,4,3,4,4
+11/12/2022 10:11:44,Data Science,HP,Intel I5,Integrated/Shared,8 GB,Windows,4,2,4,2
+11/12/2022 10:23:04,Gaming,HP,Intel I5,Integrated/Shared,8 GB,Windows,3,3,3,3
+11/12/2022 10:49:02,Block Chain,Lenovo,Intel I7,Discrete/Dedicated,16 GB,Windows,4,3,4,3
+11/12/2022 10:49:09,Data Science,Mac (Apple),M1,Integrated/Shared,16 GB,Mac OS,4,4,4,4
+11/12/2022 10:59:34,Cyber Security,Lenovo,Intel I5,Discrete/Dedicated,8 GB,Windows,4,3,3,3
+11/12/2022 11:00:14,Cyber Security,Lenovo,Intel I5,Discrete/Dedicated,8 GB,Windows,4,4,3,3
+11/12/2022 11:15:51,Gaming,HP,Ryzen 5,Integrated/Shared,16 GB,Windows,4,2,3,1
+11/12/2022 11:16:29,AI,Dell,Intel I5,Integrated/Shared,8 GB,Windows,4,2,4,4
+11/12/2022 11:19:38,AI,HP,Intel I5,Integrated/Shared,16 GB,Windows,1,3,2,4
+11/12/2022 11:25:36,Data Science,Lenovo,Ryzen 7,Integrated/Shared,16 GB,Windows,3,3,4,4
+11/12/2022 11:28:23,AI,Dell,Intel I5,Discrete/Dedicated,8 GB,Windows,3,4,3,3
+11/12/2022 11:28:44,Cloud Computing,Asus,Ryzen 7,Integrated/Shared,32 GB,Windows,4,3,4,4
+11/12/2022 12:01:46,Data Science,HP,Intel I5,Integrated/Shared,8 GB,Windows,4,3,4,4
+11/12/2022 12:05:24,AI,Mac (Apple),M1,Integrated/Shared,8 GB,Mac OS,4,4,2,4
+11/12/2022 12:06:08,Block Chain,Dell,Intel I5,Integrated/Shared,12 GB,Windows,4,2,3,2
+11/12/2022 12:06:35,Gaming,HP,Intel I5,Integrated/Shared,8 GB,Windows,4,4,4,4
+11/12/2022 12:07:24,Data Science,HP,Ryzen 5,Discrete/Dedicated,12 GB,Windows,4,3,4,3
+11/12/2022 12:09:06,Gaming,Asus,Intel I7,Discrete/Dedicated,16 GB,Windows,4,4,4,3
+11/12/2022 12:09:09,Video Editing,HP,Intel I5,Integrated/Shared,16 GB,Windows,3,4,3,4
+11/12/2022 12:13:03,AI,Asus,Intel I7,Discrete/Dedicated,16 GB,Windows,4,2,4,3
+11/12/2022 12:13:21,AI,Mac (Apple),M1,Integrated/Shared,16 GB,Mac OS,4,3,4,3
+11/12/2022 12:14:34,Block Chain,HCL,Ryzen 5,Discrete/Dedicated,8 GB,Windows,3,1,3,3
+11/12/2022 12:16:14,Gaming,Dell,Intel I7,Discrete/Dedicated,12 GB,Windows,4,3,4,4
+11/12/2022 12:17:13,Video Editing,Asus,Ryzen 9,Integrated/Shared,16 GB,Windows,2,4,2,3
+11/12/2022 12:17:46,Data Science,HP,Intel I5,Integrated/Shared,32 GB,Windows,1,3,2,4
+11/12/2022 12:18:31,AI,Dell,Intel I5,Integrated/Shared,12 GB,Windows,3,2,3,2
+11/12/2022 12:19:28,Cloud Computing,Lenovo,Intel I5,Discrete/Dedicated,16 GB,Windows,4,4,3,4
+11/12/2022 12:25:58,Core,Mac (Apple),M1,Integrated/Shared,8 GB,Mac OS,4,4,4,4
+11/12/2022 12:25:59,Video Editing,Mac (Apple),M1,Discrete/Dedicated,8 GB,Mac OS,3,3,3,3
+11/12/2022 12:26:23,Data Science,Asus,Intel I5,Integrated/Shared,16 GB,Windows,3,1,2,2
+11/12/2022 12:27:16,Gaming,Asus,Intel I7,Integrated/Shared,16 GB,Windows,4,4,4,3
+11/12/2022 12:28:20,AI,HP,Intel I7,Integrated/Shared,16 GB,Windows,4,4,4,4
+11/12/2022 12:32:14,Block Chain,HP,Intel I5,Discrete/Dedicated,8 GB,Windows,4,4,4,4
+11/12/2022 12:35:38,Data Science,HP,Intel I5,Discrete/Dedicated,8 GB,Windows,4,2,4,3
+11/12/2022 12:38:51,Video Editing,Lenovo,Intel I5,Integrated/Shared,12 GB,Windows,3,3,3,3
+11/12/2022 12:45:22,3D Modeling,Mac (Apple),M2,Integrated/Shared,32 GB,Mac OS,2,3,4,2
+11/12/2022 12:54:04,AI,Asus,Ryzen 5,Integrated/Shared,8 GB,Windows,4,1,2,3
+11/12/2022 13:01:13,Gaming,Asus,Ryzen 7,Discrete/Dedicated,16 GB,Windows,4,4,4,3
+11/12/2022 13:02:16,IOT & Robotics,Acer,Intel I5,Integrated/Shared,8 GB,Windows,4,4,4,3
+11/12/2022 13:03:05,Block Chain,Asus,Ryzen 5,Integrated/Shared,8 GB,Windows,4,4,4,4
+11/12/2022 13:09:58,Data Science,Mac (Apple),M1,Integrated/Shared,32 GB,Mac OS,1,4,3,2
+11/12/2022 13:12:53,Data Science,Lenovo,Ryzen 5,Integrated/Shared,16 GB,Linux,4,4,4,3
+11/12/2022 13:13:29,AI,HP,Ryzen 5,Discrete/Dedicated,8 GB,Windows,4,3,3,4
+11/12/2022 13:17:59,AI,Lenovo,Intel I5,Integrated/Shared,8 GB,Windows,4,4,4,3
+11/12/2022 13:24:21,Cyber Security,Dell,Intel I5,Discrete/Dedicated,12 GB,Windows,2,1,1,3
+11/12/2022 13:29:02,Cloud Computing,Asus,Intel I5,Discrete/Dedicated,8 GB,Windows,4,2,3,4
+11/12/2022 13:30:52,Gaming,HP,Ryzen 7,Discrete/Dedicated,16 GB,Windows,3,4,2,1
+11/12/2022 13:31:12,Data Science,Lenovo,Intel I7,Discrete/Dedicated,32 GB,Windows,3,1,4,2
+11/12/2022 13:33:46,Cyber Security,Lenovo,Intel I5,Discrete/Dedicated,8 GB,Linux,4,3,4,2
+11/12/2022 13:35:01,Basic coding and casual gaming,Basic coding and casual gaming,Intel I5,Integrated/Shared,8 GB,Windows,4,3,4,3
+11/12/2022 13:36:25,Data Science,Asus,Ryzen 5,Discrete/Dedicated,16 GB,Windows,4,4,3,4
+11/12/2022 13:51:01,AI,HP,Ryzen 5,Integrated/Shared,8 GB,Windows,4,4,4,4
+11/12/2022 13:57:13,AI,HP,Ryzen 5,Discrete/Dedicated,8 GB,Windows,3,4,3,3
+11/12/2022 13:59:36,Cyber Security,Msi,Intel I5,Discrete/Dedicated,16 GB,Linux,4,1,2,4
+11/12/2022 13:59:58,Gaming,Msi,Intel I7,Discrete/Dedicated,16 GB,Windows,3,4,4,4
+11/12/2022 14:00:25,Video Editing,Mac (Apple),M1,Integrated/Shared,16 GB,Mac OS,4,4,4,1
+11/12/2022 14:03:14,Cyber Security,HP,Intel I5,Discrete/Dedicated,32 GB,Windows,4,4,4,4
+11/12/2022 14:09:35,Data Science,Dell,Intel I7,Integrated/Shared,16 GB,Windows,4,4,4,4
+11/12/2022 14:35:08,AI,Asus,Intel I7,Discrete/Dedicated,16 GB,Windows,4,4,4,4
+11/12/2022 14:35:52,AI,Asus,Ryzen 9,Discrete/Dedicated,16 GB,Windows,3,3,3,3
+11/12/2022 14:37:44,Gaming,Lenovo,Intel I5,Integrated/Shared,8 GB,Windows,3,3,3,3
+11/12/2022 14:47:36,Gaming,Dell,Intel I7,Discrete/Dedicated,16 GB,Windows,4,3,4,3
+11/12/2022 14:49:07,Data Science,Lenovo,Intel I5,Integrated/Shared,8 GB,Windows,4,3,4,4
+11/12/2022 15:03:20,Block Chain,HP,Intel I5,Integrated/Shared,16 GB,Windows,4,4,3,3
+11/12/2022 15:12:08,Gaming,Dell,Intel I5,Discrete/Dedicated,8 GB,Linux,2,1,1,1
+11/12/2022 15:13:03,AI,Asus,Intel I7,Discrete/Dedicated,16 GB,Windows,3,3,3,3
+11/12/2022 15:16:56,Gaming,HP,Intel I5,Discrete/Dedicated,8 GB,Windows,4,3,2,1
+11/12/2022 15:17:29,Data Science,Mac (Apple),Intel I7,Integrated/Shared,8 GB,Mac OS,4,3,4,2
+11/12/2022 15:18:28,Gaming,Lenovo,Intel I5,Integrated/Shared,8 GB,Windows,4,2,3,1
+11/12/2022 15:23:06,AI,Mac (Apple),M1,Integrated/Shared,8 GB,Mac OS,4,3,3,4
+11/12/2022 15:23:27,AI,Mac (Apple),M1,Integrated/Shared,8 GB,Mac OS,4,4,4,4
+11/12/2022 15:24:29,No specialization ,Asus,Intel I7,Integrated/Shared,16 GB,Windows,4,4,4,4
+11/12/2022 15:28:12,Cyber Security,Dell,Intel I5,Integrated/Shared,8 GB,Windows,4,1,3,2
+11/12/2022 15:35:44,Cloud Computing,Mac (Apple),M2,Discrete/Dedicated,8 GB,Mac OS,1,2,3,4
+11/12/2022 15:39:40,Data Science,Asus,Ryzen 9,Discrete/Dedicated,16 GB,Windows,4,4,4,2
+11/12/2022 15:39:46,Gaming,Asus,Intel I5,Integrated/Shared,16 GB,Windows,4,4,4,2
+11/12/2022 15:40:48,AI,Dell,Intel I7,Discrete/Dedicated,32 GB,Windows,1,4,3,2
+11/12/2022 15:42:14,Block Chain,HP,Intel I7,Integrated/Shared,16 GB,Windows,3,3,3,3
+11/12/2022 15:45:12,AI,Lenovo,Intel I5,Discrete/Dedicated,8 GB,Windows,3,3,4,4
+11/12/2022 15:46:47,Web Development ,Mac (Apple),M2,Integrated/Shared,16 GB,Mac OS,4,4,4,4
+11/12/2022 15:48:51,AI,Dell,Intel I7,Integrated/Shared,16 GB,Windows,4,3,4,3
+11/12/2022 16:12:04,Block Chain,Mac (Apple),M1,Integrated/Shared,8 GB,Mac OS,4,2,4,4
+11/12/2022 16:16:52,AI,Mac (Apple),Intel I5,Discrete/Dedicated,16 GB,Mac OS,4,4,4,4
+11/12/2022 16:25:14,AI,Asus,Intel I5,Integrated/Shared,8 GB,Windows,4,4,4,4
+11/12/2022 16:26:33,AI,Mac (Apple),Intel I5,Discrete/Dedicated,8 GB,Mac OS,4,3,3,4
+11/12/2022 16:47:10,Cloud Computing,Nokia,Intel I5,Discrete/Dedicated,16 GB,Windows,3,1,4,3
+11/12/2022 17:31:23,Cloud Computing,HP,Intel I7,Integrated/Shared,16 GB,Windows,4,4,4,3
+11/12/2022 17:35:00,Cloud Computing,Mac (Apple),Intel I5,Integrated/Shared,8 GB,Mac OS,4,1,4,4
+11/12/2022 17:43:22,Data Science,Mac (Apple),M1,Integrated/Shared,16 GB,Mac OS,4,4,4,4
+11/12/2022 17:51:00,Data Science,HP,Intel I5,Integrated/Shared,8 GB,Windows,3,3,3,4
+11/12/2022 17:52:03,Cloud Computing,HP,Intel I5,Integrated/Shared,8 GB,Windows,2,2,3,4
+11/12/2022 17:57:22,Data Science,HP,Ryzen 7,Discrete/Dedicated,16 GB,Windows,4,3,4,4
+11/12/2022 19:19:07,Data Science,Mac (Apple),M1,Integrated/Shared,16 GB,Mac OS,4,2,4,4
+11/12/2022 19:24:06,General CS,Lenovo,Ryzen 7,Integrated/Shared,16 GB,Windows,4,2,4,1
+11/12/2022 19:24:36,Data Science,Lenovo,Intel I5,Discrete/Dedicated,8 GB,Windows,4,4,4,4
+11/12/2022 19:31:00,Ui/ux,Mac (Apple),M1,Integrated/Shared,8 GB,Mac OS,3,4,3,4
+11/12/2022 19:41:51,Gaming,HP,Ryzen 7,Integrated/Shared,16 GB,Windows,1,4,2,3
+11/12/2022 19:54:09,AI,Lenovo,Ryzen 7,Discrete/Dedicated,16 GB,Windows,4,3,2,1
+11/12/2022 21:34:16,Devops,Mac (Apple),M1,Integrated/Shared,8 GB,Mac OS,4,4,4,3
+11/12/2022 21:59:20,Cyber Security,HP,Intel I5,Integrated/Shared,16 GB,Windows,4,2,3,1
+11/12/2022 22:07:54,3D Modeling,Asus,Intel I5,Discrete/Dedicated,12 GB,Windows,4,3,3,4
+11/12/2022 23:00:50,Data Science,Lenovo,Intel I7,Integrated/Shared,32 GB,Windows,1,1,1,1
+11/12/2022 23:28:27,Data Science,HP,Ryzen 5,Discrete/Dedicated,16 GB,Windows,4,4,4,4
+11/12/2022 23:29:15,Data Science,HP,Intel I7,Discrete/Dedicated,16 GB,Windows,2,1,3,3
+11/12/2022 23:29:58,Data Science,Acer,Ryzen 5,Integrated/Shared,12 GB,Windows,3,2,4,4
+11/12/2022 23:32:08,Data Science,Dell,Intel I5,Integrated/Shared,16 GB,Windows,4,1,3,2
+11/12/2022 23:33:03,Data Science,Lenovo,Intel I5,Discrete/Dedicated,8 GB,Windows,4,4,4,4
+11/12/2022 23:34:08,Data Science,Dell,Intel I7,Integrated/Shared,16 GB,Windows,2,3,1,4
+11/12/2022 23:36:12,Data Science,Dell,Intel I5,Integrated/Shared,8 GB,Windows,4,3,4,4
+11/12/2022 23:36:25,Data Science,Mac (Apple),M2,Integrated/Shared,8 GB,Mac OS,4,4,4,4
+11/12/2022 23:37:22,Video Editing,Lenovo,Intel I5,Integrated/Shared,8 GB,Windows,3,3,4,4
+11/12/2022 23:40:12,Gaming,Asus,Ryzen 9,Discrete/Dedicated,32 GB,Windows,4,4,4,4
+11/12/2022 23:51:14,AI,HP,Intel I5,Discrete/Dedicated,16 GB,Windows,4,3,4,4
+11/12/2022 23:53:06,Data Science,Lenovo,Intel I7,Discrete/Dedicated,16 GB,Windows,4,3,4,3
+11/12/2022 23:57:52,AI,Lenovo,Ryzen 5,Discrete/Dedicated,8 GB,Windows,4,4,4,4
+11/13/2022 0:08:39,AI,HP,Intel I5,Discrete/Dedicated,8 GB,Windows,1,3,2,4
+11/13/2022 0:34:43,Data Science,Dell,Intel I7,Integrated/Shared,8 GB,Windows,4,1,3,2
+11/13/2022 0:37:09,Cloud Computing,HP,Ryzen 5,Integrated/Shared,8 GB,Windows,4,2,4,1
+11/13/2022 0:37:15,Data Science,Dell,Intel I7,Integrated/Shared,16 GB,Windows,4,1,3,2
+11/13/2022 0:39:46,AI,Lenovo,Intel I5,Integrated/Shared,8 GB,Windows,4,3,4,4
+11/13/2022 0:42:23,AI,Dell,Intel I7,Integrated/Shared,16 GB,Windows,4,1,3,2
+11/13/2022 0:49:56,IOT & Robotics,HP,Intel I5,Integrated/Shared,8 GB,Windows,4,2,3,1
+11/13/2022 1:22:37,Data Science,HP,Intel I7,Discrete/Dedicated,16 GB,Windows,4,3,4,4
